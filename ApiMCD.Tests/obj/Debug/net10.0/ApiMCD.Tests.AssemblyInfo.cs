@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiMCD.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+07b6fee2dc4eb52fa8a44b4316cc6a0280a10945")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c8e9a4da36adb6fe457c349570ea03ace125152")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiMCD.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiMCD.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

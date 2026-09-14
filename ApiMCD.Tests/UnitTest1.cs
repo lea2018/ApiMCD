@@ -1,4 +1,6 @@
-﻿namespace ApiMCD.Tests;
+﻿using ApiMCD.Services;
+
+namespace ApiMCD.Tests;
 
 public class CalentamientoTests
 {
@@ -14,5 +16,31 @@ public class CalentamientoTests
 
         // Assert
         Assert.Equal(30, resultado);
+    }
+
+    [Fact]
+    public void MCD_48Y18_DebeRetornar6()
+    {
+        // Arrange
+        var service = new MCDService();
+
+        // Act
+        var resultado = service.CalcularMCD(48, 18);
+
+        // Assert
+        Assert.Equal(6, resultado);
+    }
+
+    [Fact]
+    public void MCD_100Y25_DebeRetornar25()
+    {
+        // Arrange
+        var service = new MCDService();
+
+        // Act
+        var resultado = service.CalcularMCD(100, 25);
+
+        // Assert
+        Assert.Equal(25, resultado);
     }
 }

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Mc5dvwE6G0o=",
+  "success": true,
+  "projectFilePath": "C:\\ProgramacionIV2026\\ApiMCD\\ApiMCD\\ApiMCD.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\reyes\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.11\\microsoft.aspnetcore.openapi.10.0.11.nupkg.sha512",
+    "C:\\Users\\reyes\\.nuget\\packages\\microsoft.openapi\\2.7.5\\microsoft.openapi.2.7.5.nupkg.sha512"
+  ],
+  "logs": []
+}

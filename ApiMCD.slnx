@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ApiMCD.Tests/ApiMCD.Tests.csproj" />
+  <Project Path="ApiMCD/ApiMCD.csproj" />
+</Solution>
